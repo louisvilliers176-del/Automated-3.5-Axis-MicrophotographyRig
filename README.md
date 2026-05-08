@@ -20,7 +20,7 @@ The system is highly adaptable. My personal setup shown above features:
 Because every photographer has different gear, the adapters securing the camera, the bellows, and the objective to the aluminum plates are meant to be **3D printed** according to your specific equipment. 
 *If you use infinity-corrected objectives*, the design easily accommodates a 3D-printed housing to integrate a tube lens (like a Raynox DCR-150 or DCR-250) directly into the optical path.
 
-## 💻 Software Suite & Workflow
+## Software Suite & Workflow
 
 The hardware is driven by a comprehensive, modular software ecosystem designed to separate the acquisition station from your post-processing workstation.
 
